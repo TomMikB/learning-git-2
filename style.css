@@ -1,0 +1,19 @@
+body {
+	width: 500px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	color: red;
+}
+
+h2 {
+	color: green;
+}
+
+p {
+	color: blue;
+}
