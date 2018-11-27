@@ -1,19 +1,16 @@
 body {
-	width: 500px;
-}
+  width: 500px; }
 
 h1, h2 {
-	text-align: center;
-}
+  text-align: center; }
 
 h1 {
-	color: red;
-}
+  color: #FF0000; }
 
 h2 {
-	color: green;
-}
+  color: #008000; }
 
 p {
-	color: blue;
-}
+  color: #0000FF; }
+
+/*# sourceMappingURL=style.css.map */
